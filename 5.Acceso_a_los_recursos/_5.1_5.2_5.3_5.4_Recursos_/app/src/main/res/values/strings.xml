@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Resources</string>
+
+    <string name="the_avengers">The Avengers</string>
+
+    <string name="iron_man">Iron Man</string>
+    <string name="iron_man_actor">Robert Downey Jr.</string>
+
+
+    <string name="viuda_negra">Viuda Negra</string>
+    <string name="viuda_negra_actor">Scarlett Johansson</string>
+
+    <string name="capitan_america">Capitán América</string>
+    <string name="capitan_america_actor">Chris Evans</string>
+
+    <string name="thor">Thor</string>
+    <string name="thor_actor">Chris Hemsworth</string>
+
+    <string name="hulk">Hulk</string>
+    <string name="hulk_actor">Mark Ruffalo</string>
+
+    <string name="sprider_man">Sprider-Man</string>
+    <string name="sprider_man_actor">Tom Holland</string>
+
+</resources>

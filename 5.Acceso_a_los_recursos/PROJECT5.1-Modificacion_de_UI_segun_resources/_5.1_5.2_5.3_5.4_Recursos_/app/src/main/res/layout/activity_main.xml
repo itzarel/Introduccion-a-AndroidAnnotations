@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.example.openwebinar.resources.customobjects.Avenger_
+        android:visibility="gone"
+        android:id="@+id/firstAvenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.example.openwebinar.resources.customobjects.Avenger_
+        android:visibility="gone"
+        android:id="@+id/secondAvenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/firstAvenger" />
+
+    <com.example.openwebinar.resources.customobjects.Avenger_
+        android:visibility="gone"
+        android:id="@+id/thirdAvenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/secondAvenger" />
+
+    <com.example.openwebinar.resources.customobjects.Avenger_
+        android:visibility="gone"
+        android:id="@+id/fourthAvenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/thirdAvenger" />
+
+    <com.example.openwebinar.resources.customobjects.Avenger_
+        android:visibility="gone"
+        android:id="@+id/fifthAvenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fourthAvenger" />
+
+    <com.example.openwebinar.resources.customobjects.Avenger_
+        android:visibility="gone"
+        android:id="@+id/sixthAvenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fifthAvenger" />
+
+</android.support.constraint.ConstraintLayout>

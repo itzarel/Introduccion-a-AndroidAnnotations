@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="is_infinity_war">true</bool>
+
+    <bool name="is_iron_man">false</bool>
+    <bool name="is_viuda_negra">false</bool>
+    <bool name="is_capitan_america">false</bool>
+    <bool name="is_thor">false</bool>
+    <bool name="is_hulk">false</bool>
+    <bool name="is_sprider_man">false</bool>
+
+</resources>

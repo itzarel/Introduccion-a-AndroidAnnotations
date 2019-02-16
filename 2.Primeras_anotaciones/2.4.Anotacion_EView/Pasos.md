@@ -17,7 +17,7 @@ La anotación "@EView" permite crear un nuevo objecto custom de UI. Para usarla 
 	}
 ```
 
-### (1) Uso de la anotación EBean
+### (1) Uso de la anotación EView
 
 Crea un nuevo paquete en "com.example.openwebinar.enhancedcomponents" y lo llamaremos "views".
 En este path crearemos una nueva clase Java que la llamaremos "CustomButton" y luego crearemos otra diferente llamada "CustomTextView".

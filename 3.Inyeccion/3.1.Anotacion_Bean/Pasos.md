@@ -24,11 +24,11 @@ Crearesmos 3 nuevas clases y las anotaremos con "@EBean" (<https://github.com/an
 
 Cada clase generará un número aleatorio como se muestra a continuación:
 
-&nbsp;&nbsp;&nbsp;RandomOctal  --> it will generates numbers from 0 to 8
+&nbsp;&nbsp;&nbsp;RandomOctal  --> Generará números aleatorios desde 0 a 8
 
-&nbsp;&nbsp;&nbsp;RandomBinary --> it will generates numbers from 0 to 1
+&nbsp;&nbsp;&nbsp;RandomBinary --> Generará números aleatorios desde 0 a 1
 
-&nbsp;&nbsp;&nbsp;RandomChar   --> it will generates chars
+&nbsp;&nbsp;&nbsp;RandomChar   --> Generará chars aleatorios
 
 Adicionalmente crearemos un nuevo paquete llamado "randomhex" bajo el paquete "com.example.openwebinar.enhancedcomponents.newappication.beans". En este nuevo path crearemos los siguiente objetos:
 
@@ -36,7 +36,7 @@ Adicionalmente crearemos un nuevo paquete llamado "randomhex" bajo el paquete "c
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- int generateRandomHexNumber      --> generará números aleatorios desde 0 a 16
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- String stringValue(int hexValue) --> Mostrará el valor con su correcto formato (from 0 to F)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- String stringValue(int hexValue) --> Mostrará el valor con su correcto formato (desde 0 a F)
 
 &nbsp;&nbsp;&nbsp;RandomHexImpl --> Implementación de la Interface
 

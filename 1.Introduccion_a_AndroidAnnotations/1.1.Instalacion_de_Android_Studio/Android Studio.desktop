@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Android Studio
+Comment=IDE Android
+Exec=nohup sh /home/openwebinar/Apps/android-studio/bin/studio.sh
+Icon=/home/openwebinar/Apps/android-studio/bin/studio.png
+Terminal=false
+Type=Application

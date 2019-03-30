@@ -1,37 +1,38 @@
-SECCIÓN: Introducción a AndroidAnnotations - Tiempo Estimado (60 minutos)
+SECCIÓN: Introducción a AndroidAnnotations
 	CLASE: Instalación de Android Studio
 	CLASE: Instalación de AndroidAnnotations
 	CLASE: Primer proyecto, Hello world
 	CLASE: Segundo proyecto, Hello world de AndroidAnnotations (Comparación del código con/sin AndroidAnnotations)
 		Explicación del proyecto generado por AndroidAnnotations
 
-SECCIÓN: Primeras anotaciones - Tiempo Estimado (60 minutos)
+SECCIÓN: Primeras anotaciones
 	CLASE: Anotación EActivity
 	CLASE: Anotación EApplication
 	CLASE: Anotación EBean
 	CLASE: Anotación EView
-	PRÁCTICA: Poner la vista a pantalla completa (buscar en el API y usar @Fullscreen). La vista deberá tener un linear layour personalizado que consta de un textView y un Button, en horizontal.
+	PRÁCTICA: Pantalla completa.
 
-SECCIÓN: Inyección - Tiempo Estimado (50 minutos)
+SECCIÓN: Inyección
 	CLASE: Anotación Bean
 	CLASE: Anotación Extra
 	CLASE: Anotación App
-	PRÁCTICA: Mostrar ApplicationInfo del contexto de aplicación por debugger (usar @RootContext)
+	PRÁCTICA: Mostrar el contexto de aplicación
 
-SECCIÓN: Ciclo de vida de una app - Tiempo Estimado (50 minutos)
+SECCIÓN: Ciclo de vida de una app
 	CLASE: Explicación ciclo vida app
 	CLASE: Anotación AfterExtras
 	CLASE: Anotación AfterInject
 	CLASE: Anotación AfterViews
 	PRÁCTICA: Mostrar en el debugger las distintas fases del ciclo
 
-SECCIÓN: Acceso a los recursos - Tiempo Estimado (60 minutos)
+SECCIÓN: Acceso a los recursos
 	CLASE: Anotación StringRes
 	CLASE: Anotación ColorRes
 	CLASE: Anotación BooleanRes
 	CLASE: Anotación AnimationRes
 	PRÁCTICA: según recursos dados cambiar la UI
-PRACTICA FINAL - Tiempo Estimado (30 minutos)
+
+PRACTICA FINAL
 	Crear una app (EActivity) que con dos botones (sin AndroidAnnotations)
 	permita cambiar el lenguaje de la app (StringRes) cambiar los colores de la IU
 	(ColorRes). La ap deberá tener una animación de inicio (AnimationRes) que se
@@ -44,4 +45,4 @@ PRACTICA FINAL - Tiempo Estimado (30 minutos)
 	La nueva app (la inyectada por EApplication) tendrá beans predefinifos (EBean)
 	con datos que serán empleados (Bean) en la clase principal de esta nueva app.
 
-SECCIÓN: Recapitulación anotaciones - Tiempo Estimado (20 minutos)
+SECCIÓN: Recapitulación anotaciones

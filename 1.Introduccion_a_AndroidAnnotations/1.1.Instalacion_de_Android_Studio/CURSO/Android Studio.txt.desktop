@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Android Studio
+Comment=IDE Android
+Exec=nohup sh {installation home}/bin/studio.
+Icon={installation home}/bin/studio.png
+Terminal=false
+Type=Application
+Name[es_ES]=Android Studio.txt

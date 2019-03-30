@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SaludosEnIdiomas</string>
+
+    <string name="tv_en_hello_world">Hello World</string>
+    <string name="tv_fr_hello_world">Salut Monde</string>
+    <string name="tv_es_hello_world">Hola Mundo</string>
+
+    <string name="b_change_tv">Look for your own language</string>
+</resources>
